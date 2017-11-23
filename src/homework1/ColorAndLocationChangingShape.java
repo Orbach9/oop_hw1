@@ -49,6 +49,5 @@ public abstract class LocationAndColorChangingShape extends LocationChangingShap
         	Color newColor = new Color(r, g, b);
         	this.setColor(newColor);
         }
-
     }
 }
